@@ -53,6 +53,36 @@ This project-based course enables students to:
 | Final Presentation         | 15%    | CO1-CO6     | Week 15         |
 | Lab Viva                   | 30%    | All COs     | Week 15         |
 
+
+
+## 🎯 Course Outcomes (COs)
+
+| CO | Outcome Description | PO Mapping |
+|----|---------------------|------------|
+| **CO1** | Develop computing systems to solve complex engineering problems | PO3 |
+| **CO2** | Evaluate system performance through experimental data analysis | PO4 |
+| **CO3** | Identify and apply modern engineering tools for development | PO5 |
+| **CO4** | Implement ethical principles in project management | PO8 |
+| **CO5** | Demonstrate leadership in individual/team project work | PO9 |
+| **CO6** | Present technical reports with effective communication | PO10 |
+| **CO7** | Apply modern engineering knowledge for sustainable solutions | PO12 |
+
+## 🔬 Lab Activity Outline
+
+| Week | Lab Activity | COs | Key Tasks |
+|------|--------------|-----|-----------|
+| 1 | Requirement Specification & SDLC Selection | CO1 | Elicit requirements, select methodology |
+| 2-3 | High-Level System Design | CO1,CO2 | Create architecture diagrams |
+| 4 | Low-Level System Design | CO1,CO2 | Detailed component specifications |
+| 5 | System Implementation | CO3 | Environment setup, tool selection |
+| 6-7 | GUI & Database Design | CO4,CO6 | Prototype interfaces, design schemas |
+| 8 | Midterm Presentation | CO1-3,6 | Demo progress, defend design choices |
+| 9-12 | Software Testing | CO3,7 | Develop test cases, execute validation |
+| 13-14 | Version Control | CO3,7 | GitHub workflow, collaborative coding |
+| 15 | Final Defense | All COs | Full system demonstration |
+
+
+
 ## 📚 Learning Resources  
 **Core Textbook:**  
 <div align="center">
