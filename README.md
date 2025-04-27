@@ -53,9 +53,11 @@ This project-based course enables students to:
 | Final Presentation         | 15%    | CO1-CO6     | Week 15         |
 | Lab Viva                   | 30%    | All COs     | Week 15         |
 
-## 📚 Learning Resources
+## 📚 Learning Resources  
 **Core Textbook:**  
-[![Software Engineering](https://via.placeholder.com/100x150?text=Pressman+8th)](https://example.com)  
+<div align="center">
+  <img src="[https://m.media-amazon.com/images/I/51D6AC9S-AL._SY342_.jpg]" alt="Software Engineering: A Practitioner's Approach* (8th Ed.) by Pressman & Maxim">
+</div>
 *Software Engineering: A Practitioner's Approach* (8th Ed.) by Pressman & Maxim
 
 **Supplementary:**  
