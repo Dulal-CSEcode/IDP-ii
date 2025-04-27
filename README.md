@@ -1,21 +1,34 @@
 # Integrated Design Project II
 
-Welcome to the **Integrated Design Project II** repository! This project combines engineering, software development, and design to develop innovative, sustainable solutions. It fosters teamwork and collaboration, integrating diverse fields to tackle real-world challenges.
+# 🚀 CSE 406 - Integrated Design Project II | Spring 2024
 
-## Project Overview
+![Green University of Bangladesh](https://via.placeholder.com/150x50?text=GUB-Logo)
 
-The **Integrated Design Project II** is a collaborative effort to create a scalable and efficient solution addressing complex problems. The project integrates various disciplines, including software development, system design, and user experience, aiming to deliver a well-rounded solution. 
+## 📌 Course Information
+| Attribute          | Details                                  |
+|--------------------|------------------------------------------|
+| **Department**     | Computer Science and Engineering         |
+| **Program**        | B.Sc. in CSE                             |
+| **Course Code**    | CSE 406                                  |
+| **Credit**         | 1.5 units                                |
+| **Contact Hours**  | 2.5 hours/week                           |
+| **Prerequisite**   | CSE 324                                  |
+| **Course Status**  | Core                                     |
 
-### Key Features:
-- **Multidisciplinary Approach**: Involves collaboration between engineering, design, and software development.
-- **Prototyping & Design**: Focus on building and testing design concepts and prototypes.
-- **Collaborative Tools**: Shared resources and documentation to support efficient teamwork.
-- **Comprehensive Documentation**: Detailed reports and guides to understand design decisions and implementations.
+## 👨‍💻 Instructor Information
+**Name:** Md. Saiful Islam Bhuiyan  
+**Office:** A608  
+**Email:** saiful.islam@cse.green.edu.bd  
 
-## Installation
+**🕒 Contact Hours:**
+- **Lab Session:** Monday (6:30 PM - 9:00 PM) - Online
+- **Counseling:** Tuesday (11:00 AM - 12:15 PM)
 
-To get started, clone the repository and set up your local environment:
+## 🎯 Course Objectives
+This project-based course enables students to:
+- Design, build, and test computing systems
+- Develop product re-engineering skills
+- Gain experience in project management and teamwork
+- Apply ethical principles in engineering solutions
 
-```bash
-git clone https://github.com/your-username/integrated-design-project-ii.git
-cd integrated-design-project-ii
+## 📂 Repository Structure
