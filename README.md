@@ -20,7 +20,7 @@
 **Email:** sharifur@cse.green.edu.bd  
 
 **🕒 Contact Hours:**
-- **Lab Session:** Monday (6:30 PM - 9:00 PM) - Online
+- **Lab Session:** Sunday (9:00 PM - 10:40 PM) - Online
 - **Counseling:** Tuesday (11:00 AM - 12:15 PM)
 
 ## 🎯 Course Objectives
