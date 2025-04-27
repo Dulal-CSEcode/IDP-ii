@@ -48,7 +48,7 @@ This project-based course enables students to:
 | Component                  | Weight | COs Covered | Deadline        |
 |----------------------------|--------|-------------|-----------------|
 | Team Evaluation            | 25%    | CO1-CO5     | Continuous      |
-| Weekly Reports             | 15%    | CO1,CO2     | Every Monday    |
+| Weekly Reports             | 15%    | CO1,CO2     | Every Sunday    |
 | Project Documentation      | 15%    | CO1-CO6     | Week 14         |
 | Final Presentation         | 15%    | CO1-CO6     | Week 15         |
 | Lab Viva                   | 30%    | All COs     | Week 15         |
