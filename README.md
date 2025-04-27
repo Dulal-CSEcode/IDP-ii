@@ -15,9 +15,9 @@
 | **Course Status**  | Core                                     |
 
 ## 👨‍💻 Instructor Information
-**Name:** Md. Saiful Islam Bhuiyan  
-**Office:** A608  
-**Email:** saiful.islam@cse.green.edu.bd  
+**Name:** Sharifur Rahman 
+**Office:** A608 & Desk: 28  
+**Email:** sharifur@cse.green.edu.bd  
 
 **🕒 Contact Hours:**
 - **Lab Session:** Monday (6:30 PM - 9:00 PM) - Online
@@ -117,7 +117,7 @@ CSE_406_Project/
 
 ## 📞 Contact
 For course-related queries:  
-📧 saiful.islam@cse.green.edu.bd  
+📧 sharifur@cse.green.edu.bd  
 🏢 Visit: Room A608 during office hours
 
 ---
