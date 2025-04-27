@@ -1,6 +1,6 @@
 # 🚀 CSE 406 - Integrated Design Project II | Spring 2025
 
-![Green University of Bangladesh](https://via.placeholder.com/150x50?text=GUB-Logo)
+![Green University of Bangladesh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Green_University_of_Bangladesh_logo.svg/4216px-Green_University_of_Bangladesh_logo.svg.png)
 
 ## 📌 Course Information
 | Attribute          | Details                                  |
