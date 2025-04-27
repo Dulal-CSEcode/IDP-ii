@@ -56,7 +56,7 @@ This project-based course enables students to:
 ## 📚 Learning Resources  
 **Core Textbook:**  
 <div align="center">
-  <img src="[https://m.media-amazon.com/images/I/51D6AC9S-AL._SY342_.jpg]" alt="Software Engineering: A Practitioner's Approach* (8th Ed.) by Pressman & Maxim">
+  <img src="https://m.media-amazon.com/images/I/51D6AC9S-AL._SY342_.jpg" alt="Software Engineering: A Practitioner's Approach* (8th Ed.) by Pressman & Maxim">
 </div>
 *Software Engineering: A Practitioner's Approach* (8th Ed.) by Pressman & Maxim
 
