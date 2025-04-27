@@ -128,6 +128,7 @@ For course-related queries:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Green_University_of_Bangladesh_logo.svg/250px-Green_University_of_Bangladesh_logo.svg.png" alt="Green University of Bangladesh">
   <p>© 2025 Department of CSE, Green University of Bangladesh</p>
   <p>Last Updated: January 2025</p>
+  <p>Design By, MD Dulal Hossain</p>
 </div>
 
 
