@@ -95,9 +95,11 @@ For course-related queries:
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/100x50?text=GUB" alt="GUB Logo">
-  <p>© 2024 Department of CSE, Green University of Bangladesh</p>
-  <p>Last Updated: June 2024</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Green_University_of_Bangladesh_logo.svg/250px-Green_University_of_Bangladesh_logo.svg.png" alt="Green University of Bangladesh">
+  <p>© 2025 Department of CSE, Green University of Bangladesh</p>
+  <p>Last Updated: January 2025</p>
 </div>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
