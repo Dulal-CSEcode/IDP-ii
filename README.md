@@ -1,6 +1,4 @@
-# Integrated Design Project II
-
-# 🚀 CSE 406 - Integrated Design Project II | Spring 2024
+# 🚀 CSE 406 - Integrated Design Project II | Spring 2025
 
 ![Green University of Bangladesh](https://via.placeholder.com/150x50?text=GUB-Logo)
 
