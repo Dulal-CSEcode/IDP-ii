@@ -31,7 +31,30 @@ This project-based course enables students to:
 
 ## 📂 Repository Structure
 
-
+CSE_406_Project/
+├── docs/ # Documentation Hub
+│ ├── requirements/ # System requirements and specifications
+│ ├── design/ # Architectural diagrams and design documents
+│ └── reports/ # Weekly progress updates and milestones
+│
+├── src/ # Implementation Source
+│ ├── frontend/ # User interface components
+│ ├── backend/ # Business logic and APIs
+│ └── database/ # Data models and migrations
+│
+├── tests/ # Quality Assurance
+│ ├── unit/ # Isolated component tests
+│ └── integration/ # System interaction tests
+│
+├── lab/ # Experimental Work
+│ ├── experiment_01/ # Lab 1: Requirements & SDLC
+│ ├── experiment_02/ # Lab 2-4: System Architecture
+│ └── ... # Additional lab sessions
+│
+└── resources/ # Supporting Materials
+├── references/ # Academic papers and books
+├── tools/ # Software and utilities
+└── templates/ # Document templates
 
 
 
